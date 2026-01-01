@@ -139,7 +139,7 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
- - block: team-showcase
+- block: team-showcase
     id: team
     content:
       title: Meet Our Team
