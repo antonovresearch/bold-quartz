@@ -205,9 +205,9 @@ sections:
       count: 5
     design:
       view: citation
-      cta:
-        text: View All Team Members
-        url: /authors
+    cta:
+      text: View All Team Members
+      url: /authors
 
   - block: collection
     id: featured
