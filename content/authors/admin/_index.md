@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Jane Smith
+title: Dr. Alexander Antonov
 
 # Is this the primary user of the site?
 superuser: true
