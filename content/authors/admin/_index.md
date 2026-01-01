@@ -6,7 +6,7 @@ title: Dr. Alexander Antonov
 superuser: true
 
 # Role/position/tagline
-role: Principal Investigator & Lab Director
+role: Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -99,7 +99,7 @@ website: ""
 
 # User groups
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 ## About the Lab
