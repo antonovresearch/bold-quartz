@@ -207,18 +207,6 @@ sections:
       view: citation
 
   - block: collection
-    id: featured
-    content:
-      title: Featured Research
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
     id: news
     content:
       title: Lab News & Updates
@@ -252,40 +240,17 @@ sections:
       subtitle: Leading the way together
       text: We work with top universities, research institutes, and industry leaders to advance scientific discovery
       logos:
-        - name: MIT
+        - name: Prof. Peter Tolstoy
           image: partners/placeholder-logo.svg
-          url: https://mit.edu
+          url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
           external: true
-          description: Massachusetts Institute of Technology
-        - name: Stanford University
+          description: Saint Petersburg University
+        - name: Prof. Elena Tupikina
           image: partners/placeholder-logo.svg
-          url: https://stanford.edu
+          url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
           external: true
-          description: Stanford Research Collaboration
-        - name: Google Research
-          image: partners/placeholder-logo.svg
-          url: https://research.google
-          external: true
-          description: AI & Machine Learning Partnership
-        - name: National Science Foundation
-          image: partners/placeholder-logo.svg
-          url: https://nsf.gov
-          external: true
-          description: Research Funding Partner
-        - name: Microsoft Research
-          image: partners/placeholder-logo.svg
-          url: https://www.microsoft.com/research
-          external: true
-          description: Computing Research Collaboration
-        - name: NIH
-          image: partners/placeholder-logo.svg
-          url: https://nih.gov
-          external: true
-          description: National Institutes of Health
-      cta:
-        text: Become a Partner
-        url: /#contact
-        icon: hero/user-plus
+          description: Saint Petersburg University
+        
     design:
       display_mode: grid
       show_pattern: false
@@ -302,24 +267,25 @@ sections:
       connect_title: Connect With Us
       address:
         lines:
-          - Smith Laboratory
-          - Department of Computer Science
-          - University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-          - United States
+          - Antonov Laboratory
+          - AK Gschwind
+          - Institute of Organic Chemistry
+          - University of Regensburg
+          - Universitätsstr. 31
+          - 93053 Regensburg
+          - Germanz
       office_hours:
-        - "Monday - Friday: 9:00 AM - 5:00 PM"
-        - "Lab Meetings: Fridays 2:00 PM"
-      email: lab@example.edu
-      phone: "+1 (555) 123-4567"
+        - "Monday - Friday: 8:00 AM - 4:00 PM"
+        #- "Lab Meetings: Fridays 2:00 PM"
+      email: alexander.antonov@ur.de
+      #phone: "+1 (555) 123-4567"
       social:
         - icon: brands/x
           url: https://twitter.com/SmithLabResearch
-        - icon: brands/linkedin
-          url: https://linkedin.com/company/smith-lab
-        - icon: brands/github
-          url: https://github.com/smith-lab
+        #- icon: brands/linkedin
+          #url: https://linkedin.com/company/smith-lab
+        #- icon: brands/github
+          #url: https://github.com/smith-lab
       prospective:
         title: Prospective Members
         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
