@@ -2,7 +2,6 @@
 title: Join Our Team
 date: 2024-01-01
 type: landing
-draft: true
 
 sections:
   - block: markdown
