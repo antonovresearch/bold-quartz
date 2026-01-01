@@ -13,7 +13,6 @@ sections:
     id: about
     content:
       title: |
-        Research Group
         Physical Organometallic Chemistry
       text: |
         We are a  research group focused on the investigation of the role of non-colavent interactions in the structural features, synthetic metodology and reactivity of main group organometallics 
@@ -26,8 +25,7 @@ sections:
         url: '#publications'
         icon: hero/academic-cap
       announcement:
-        active: false
-        text: "We are hiring PhD students and postdocs!"
+        text: "We are hiring PhD students!"
         link:
           text: "Apply now"
           url: "/opportunities"
@@ -56,21 +54,21 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "50+"
+        - statistic: "36"
           description: Publications in top-tier journals
-          sub_metric: Nature, Science, Cell, PNAS
+           #sub_metric: Nature, Science, Cell, PNAS
           icon: hero/document-text
         - statistic: "15"
           description: Brilliant researchers and scientists
-          sub_metric: From 8 countries worldwide
+           #sub_metric: From 8 countries worldwide
           icon: hero/user-group
         - statistic: "$5M"
           description: Active research funding
-          sub_metric: NSF, NIH, DOE grants
+           #sub_metric: NSF, NIH, DOE grants
           icon: hero/currency-dollar
         - statistic: "12"
           description: Active research projects
-          sub_metric: Across 3 major domains
+           #sub_metric: Across 3 major domains
           icon: hero/beaker
     design:
       layout: cards
