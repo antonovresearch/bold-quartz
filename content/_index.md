@@ -151,10 +151,10 @@ sections:
         - Master and Bachelor Students
       sort_by: 'Params.last_name'
       sort_ascending: true
-      #cta:
-        #text: View All Team Members
-       #url: /authors
-       #icon: user-group
+      cta:
+        text: View All Team Members
+       url: /authors
+       icon: user-group
     design:
       show_role: true
       show_organizations: false
