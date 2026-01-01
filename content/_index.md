@@ -13,10 +13,10 @@ sections:
     id: about
     content:
       title: |
-        Research Lab for
-        **Advancing Science**
+        Research Group
+        Physical Organometallic Chemistry
       text: |
-        We are a leading research group focused on pushing the boundaries of knowledge through innovative research and collaboration. Our multidisciplinary team works on cutting-edge projects at the intersection of technology and science.
+        We are a  research group focused on the investigation of the role of non-colavent interactions in the structural features, synthetic metodology and reactivity of main group organometallics 
       primary_action:
         text: Join Our Team
         url: '#team'
@@ -26,6 +26,7 @@ sections:
         url: '#publications'
         icon: hero/academic-cap
       announcement:
+        active: false
         text: "We are hiring PhD students and postdocs!"
         link:
           text: "Apply now"
