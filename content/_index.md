@@ -205,9 +205,6 @@ sections:
       count: 5
     design:
       view: citation
-    cta:
-      text: View All Team Members
-      url: /authors
 
   - block: collection
     id: featured
@@ -220,29 +217,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-
-  - block: collection
-    id: events
-    content:
-      title: Events
-      subtitle: Join Us for Research Presentations & Seminars
-      text: Stay connected with our research community through talks, workshops, and collaborative events
-      filters:
-        folders:
-          - events
-        exclude_past: false  # Show both past and future events
-      count: 3
-      sort_by: Date
-      sort_ascending: false
-    design:
-      view: card
-      # columns: 3
-      show_date: true
-      show_read_time: false
-      show_read_more: true
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
 
   - block: collection
     id: news
