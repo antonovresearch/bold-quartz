@@ -273,7 +273,7 @@ sections:
           - University of Regensburg
           - Universitätsstr. 31
           - 93053 Regensburg
-          - Germanz
+          - Germany
       office_hours:
         - "Monday - Friday: 8:00 AM - 4:00 PM"
         #- "Lab Meetings: Fridays 2:00 PM"
