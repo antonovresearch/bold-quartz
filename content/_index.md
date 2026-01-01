@@ -83,55 +83,50 @@ sections:
       subtitle: Expanding the Frontiers of Organolithium Chemistry with Non-covalent Interactions
       text: Our lab conducts cutting-edge research across multiple domains
       items:
-        - name: Computational Biology
-          description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
+        - name: Organolithium Chemistry
+          description: Steric effects in synthesis, structure and reactivity of organolithium compounds
           icon: hero/beaker
           gradient: from-green-400 to-emerald-600
-          status: active
           topics:
-            - Genomics
-            - Proteomics
-            - Bioinformatics
-            - Systems Biology
-            - Drug Discovery
-          team_size: 12
-          publications: 45+
-          funding: $2.5M NSF/NIH
+            - Directed lithiation
+            - Halogen-lithium exchange
+            - Aggregation and reactivity
+            - Dispercion interactions
+          #team_size: 12
+          #publications: 45+
+          #funding: $2.5M NSF/NIH
           cta:
             text: Explore Projects
             url: /research/computational-biology
             
-        - name: Machine Learning
-          description: Advancing deep learning methods for scientific discovery, with focus on interpretable AI and physics-informed neural networks
+        - name: Heterocyclic chemistry
+          description: Non-covalent interactions in synthesis and functionalisation of heterocyclic compounds
           icon: hero/cpu-chip
           gradient: from-purple-400 to-pink-600
-          status: active
           topics:
-            - Deep Learning
-            - Computer Vision
-            - NLP
-            - Graph Neural Networks
-            - Explainable AI
-          team_size: 8
-          publications: 32+
-          funding: $1.8M NSF
+            - Pyrroles 
+            - Pyridines
+            - Pyrimidines
+            - Isoxazoles
+          #team_size: 8
+          #publications: 32+
+          #funding: $1.8M NSF
           cta:
             text: View Research
             url: /research/machine-learning
             
-        - name: Materials Science
-          description: Designing novel materials through computational modeling and machine learning-guided discovery
+        - name: Pnictogen and boron chemistry
+          description: New methods for the synthesis of organopnictogens
           icon: emoji/atom_symbol
           gradient: from-blue-400 to-indigo-600
           status: emerging
           topics:
-            - Nanomaterials
-            - Quantum Materials
-            - Energy Storage
-            - Catalysis
-          team_size: 6
-          publications: 28+
-          funding: $1.2M DOE
+            - Phosphine chalcogenides
+            - Arsine chalcogenides
+            - Organoboranes
+          #team_size: 6
+          #publications: 28+
+          #funding: $1.2M DOE
           cta:
             text: Learn More
             url: /research/materials-science
@@ -144,39 +139,6 @@ sections:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-
-  - block: cta-image-paragraph
-    content:
-      items:
-        - title: 'State-of-the-Art Research Environment'
-          text: |
-            Our laboratory features cutting-edge equipment and modern research facilities designed to support breakthrough discoveries. From advanced computational clusters to precision instrumentation, we provide our researchers with the tools they need to push the boundaries of science.
-          image: pexels-polina-tankilevitch-3735769.jpg
-          feature_icon: hero/check-circle
-          features:
-            - 'High-Performance Computing: 500+ core GPU cluster for AI/ML research'
-            - 'Advanced Instrumentation: Precision equipment for materials characterization'
-            - 'Safety & Compliance: Full safety protocols and regulatory compliance'
-          button:
-            text: 'Virtual Lab Tour'
-            url: '/facilities'
-
-        - title: 'Collaborative Innovation Culture' 
-          text: |
-            Breakthrough research happens through collaboration. Our open lab environment fosters cross-disciplinary partnerships, knowledge sharing, and mentorship between senior researchers and emerging scientists. Every team member contributes to our collective mission of advancing scientific understanding.
-          image: pexels-canvastudio-3153198.jpg
-          feature_icon: hero/users
-          features:
-            - 'Cross-Disciplinary Teams: Biologists, engineers, and computer scientists working together'
-            - 'Knowledge Sharing: Weekly seminars and collaborative research meetings'
-            - 'Mentorship Program: Structured guidance for PhD students and postdocs'
-          button:
-            text: 'Join Our Community'
-            url: '/opportunities'
-    design:
-      css_class: "bg-white dark:bg-gray-800"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
 
   - block: team-showcase
     id: team
