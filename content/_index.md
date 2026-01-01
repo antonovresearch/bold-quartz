@@ -139,12 +139,12 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
-  - block: team-showcase
+- block: team-showcase
     id: team
     content:
       title: Meet Our Team
-      subtitle: International group of researchers
-    #text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
+      subtitle: 'World-class researchers pushing the boundaries of science'
+      text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
       user_groups:
         - Group Leader
         - Postdoctoral Researchers and PhD Students
@@ -153,8 +153,8 @@ sections:
       sort_ascending: true
       cta:
         text: View All Team Members
-       url: /authors
-       icon: user-group
+        url: /authors
+        icon: user-group
     design:
       show_role: true
       show_organizations: false
