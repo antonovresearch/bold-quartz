@@ -12,10 +12,10 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: 'Research Institute'
-    org_name: 'Research Lab'
-    description: 'Leading research lab advancing knowledge through innovative scientific discovery and collaboration.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Universität Regensburg'
+    org_name: 'Antonov Lab'
+    description: 'Physical Organometallic Chemistry'
+    twitter: @Alex_S_Antonov
   analytics:
     google_analytics: ''
     baidu_tongji: ''
