@@ -66,7 +66,7 @@ sections:
           #description: Active research funding
            #sub_metric: NSF, NIH, DOE grants
           #icon: hero/currency-dollar
-        - statistic: "12"
+        - statistic: "4"
           description: Active research projects
            #sub_metric: Across 3 major domains
           icon: hero/beaker
@@ -80,8 +80,8 @@ sections:
   - block: research-areas
     content:
       title: Research Focus Areas
-      subtitle: Pushing the Boundaries of Science
-      text: Our lab conducts cutting-edge research across multiple domains, combining computational methods with experimental validation
+      subtitle: Expanding the Frontiers of Organolithium Chemistry with Non-covalent Interactions
+      text: Our lab conducts cutting-edge research across multiple domains
       items:
         - name: Computational Biology
           description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
