@@ -27,7 +27,7 @@ sections:
       css_class: ""
       background:
         gradient_mesh:
-          enable: false
+          enable: true
           style: "orbs"
           animation: "pulse"
           intensity: "medium"
