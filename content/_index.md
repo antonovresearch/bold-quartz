@@ -147,8 +147,8 @@ sections:
       text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
       user_groups:
         - Principal Investigators
-        - Postdoctoral Researchers
-        - PhD Students
+        - Postdoctoral Researchers and PhD Students
+        - Master and Bachelor Students
       sort_by: 'Params.last_name'
       sort_ascending: true
       cta:
@@ -205,6 +205,9 @@ sections:
       count: 5
     design:
       view: citation
+      cta:
+        text: View All Team Members
+        url: /authors
 
   - block: collection
     id: featured
