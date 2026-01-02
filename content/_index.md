@@ -163,7 +163,7 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
-- block: research-areas
+  - block: research-areas
     id: funding
     content:
       title: Research Funding
