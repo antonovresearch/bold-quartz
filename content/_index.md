@@ -326,6 +326,7 @@ sections:
         - icon: brands/bluesky
           url: https://bsky.app/profile/alexanderantonov.bsky.social
         - icon: brands/researchgate
+          icon_pack: fab
           url: https://www.researchgate.net/profile/Alexander-Antonov-5?ev=hdr_xprf  
       prospective:
         title: Prospective Members
