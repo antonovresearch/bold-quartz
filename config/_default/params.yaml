@@ -40,12 +40,13 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2026 Alexander Antonov. This work is licensed under CC BY NC ND 4.0'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false   # disable automatic license text, we use custom text above
+  credit:
+    enable: true     # keep the credit block if you want, otherwise set to false
+    text: 'Created by the Antonov Lab'
+    url: ''          # empty URL removes the hyperlink
 
 # Localization
 locale:
