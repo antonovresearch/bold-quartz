@@ -154,7 +154,7 @@ sections:
             #text: ERC Project Page
             #url: https://erc.europa.eu
 
-        - name: Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles: experimental and theoretical challenge
+        - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles: experimental and theoretical challenge"
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021 
           icon: hero/currency-dollar
           status: finished
