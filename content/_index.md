@@ -320,13 +320,13 @@ sections:
       #phone: "+1 (555) 123-4567"
       social:
         - icon: brands/x
-          url: https://twitter.com/SmithLabResearch
+          url: https://x.com/Alex_S_Antonov
         - icon: brands/linkedin
           url: https://www.linkedin.com/in/alexander-antonov-98836a27b/
         - icon: brands/bluesky
           url: https://bsky.app/profile/alexanderantonov.bsky.social
-        - icon: brands/researchgate
-          url: https://www.researchgate.net/profile/Alexander-Antonov-5?ev=hdr_xprf  
+        - icon: brands/orcid
+          url: https://orcid.org/0000-0001-7047-789X
       prospective:
         title: Prospective Members
         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
