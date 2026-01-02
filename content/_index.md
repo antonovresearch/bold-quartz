@@ -293,9 +293,9 @@ sections:
     logos:
   
       - name: Saint Petersburg University
-      image: partners/Tolstoy.jpg url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
-      external: true
-      description: Prof. Peter Tolstoy
+        image: partners/Tolstoy.jpg url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
+        external: true
+        description: Prof. Peter Tolstoy
 
       - name: Saint Petersburg University
         image: partners/Tupikina.jpg
