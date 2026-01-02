@@ -292,16 +292,16 @@ sections:
       subtitle: Leading the way together
       text: We work with top universities, research institutes, and industry leaders to advance scientific discovery
       logos:
-        - name: Prof. Peter Tolstoy
-          image: partners/placeholder-logo.svg
+        - name: Saint Petersburg University
+          image: partners/Tolstoy.jpg
           url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
           external: true
-          description: Saint Petersburg University
-        - name: Prof. Elena Tupikina
-          image: partners/placeholder-logo.svg
+          description: Prof. Peter Tolstoy
+        - name: Saint Petersburg University
+          image: partners/Tupikina.jpg
           url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
           external: true
-          description: Saint Petersburg University
+          description: Prof. Elena Tupikina
         
     design:
       display_mode: grid
@@ -334,10 +334,12 @@ sections:
       social:
         - icon: brands/x
           url: https://twitter.com/SmithLabResearch
-        #- icon: brands/linkedin
-          #url: https://linkedin.com/company/smith-lab
-        #- icon: brands/github
-          #url: https://github.com/smith-lab
+        - icon: brands/linkedin
+          url: https://www.linkedin.com/in/alexander-antonov-98836a27b/
+        - icon: brands/bluesky
+          url: https://bsky.app/profile/alexanderantonov.bsky.social
+        - icon: brands/researchgate
+          url: https://www.researchgate.net/profile/Alexander-Antonov-5?ev=hdr_xprf  
       prospective:
         title: Prospective Members
         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
