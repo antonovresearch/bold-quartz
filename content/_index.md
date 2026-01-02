@@ -305,6 +305,7 @@ sections:
         
     design:
       display_mode: grid
+      logo_size: medium
       show_pattern: false
       css_class: "bg-gradient-to-b from-[#003400] to-[#004100]"
       spacing:
