@@ -85,7 +85,7 @@ sections:
       items:
         - name: Organolithium Chemistry
           description: Steric effects in synthesis, structure and reactivity of organolithium compounds
-          icon: hero/beaker
+          icon: hero/academic-cap
           gradient: from-green-400 to-emerald-600
           topics:
             - Directed lithiation
@@ -101,7 +101,7 @@ sections:
             
         - name: Heterocyclic chemistry
           description: Non-covalent interactions in synthesis and functionalisation of heterocyclic compounds
-          icon: hero/cpu-chip
+          icon: hero/academic-cap
           gradient: from-purple-400 to-pink-600
           topics:
             - Pyrroles 
@@ -117,7 +117,7 @@ sections:
             
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
-          icon: emoji/atom_symbol
+          icon: emoji/academic-cap
           gradient: from-blue-400 to-indigo-600
           topics:
             - Phosphine chalcogenides
