@@ -271,6 +271,7 @@ sections:
         padding: ["5rem", 0, "5rem", 0]
 
   - block: logos
+    id: collaborations    
     content:
       title: Collaborators & Partners
       subtitle: Leading the way together
