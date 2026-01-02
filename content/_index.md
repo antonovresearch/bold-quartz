@@ -257,19 +257,33 @@ sections:
   - block: research-areas
     id: teaching
     content:
-      title: Teaching Activities
+      title: Recent Teaching Activities
       subtitle: Courses offered by our lab
       items:
         - name: "Organic chemistry: Seminar to the Lab Course" 
-          description: Bachelor, Regensburg University, since 2025
+          description: Bachelor (in German), Regensburg University, since 2025
           status: active
           icon: hero/book-open
           gradient: from-yellow-400 to-yellow-600
-      design:
-        layout: cards
-        css_class: "bg-gradient-to-b from-[#002c00] to-[#003400]"
-        spacing:
-          padding: ["5rem", 0, "5rem", 0]
+    
+        - name: "Modern organometallic synthesis: Lecture" 
+          description: Master (In English), Regensburg University, since 2025
+          status: inactive
+          icon: hero/book-open
+          gradient: from-yellow-400 to-yellow-600
+
+        - name: "New synthetic methods in organic chemistry: Lecture" 
+          description: Master (In English), Ludwig-Maximilians-Universität München, 2024 - 2025
+          status: inactive
+          icon: hero/book-open
+          gradient: from-yellow-400 to-yellow-600
+    
+    design:
+      layout: cards
+      show_logo: true        
+      css_class: "bg-gradient-to-b from-[#002c00] to-[#003400]"
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
 
   - block: logos
     id: collaborations    
