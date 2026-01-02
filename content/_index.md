@@ -149,41 +149,47 @@ sections:
           description: Russian Science Foundation, № 21-73-10040, 2021-2023
           status: finished
           gradient: from-blue-400 to-indigo-600
-          logo: /logos/rsf-logo.png
+        logo:
+          image: /logos/rsf-logo.png
           #url: https://www.rscf.ru
 
         - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles"
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021
           status: finished
           gradient: from-blue-400 to-indigo-600
-          logo: /logos/rfbr-logo.jpg
+        logo:
+          image: /logos/rfbr-logo.jpg
           #url: https://www.rfbr.ru
 
         - name: Superbasic non-nucleophilic polymeric materials based on proton sponges
           description: Russian Science Foundation, № 18-73-00020, 2018-2020
           status: finished
           gradient: from-blue-400 to-indigo-600
-          logo: /logos/rsf-logo.png
+        logo:
+          image: /logos/rsf-logo.png
           #url: https://www.rscf.ru
 
         - name: Organometallic derivatives of 1,8-bis(dimethylamino)naphthalene
           description: Russian Foundation for Basic Research, № 16-33-60030, 2016-2018
           status: finished
           gradient: from-blue-400 to-indigo-600
-          logo: /logos/rfbr-logo.jpg
+        logo:
+          image: /logos/rfbr-logo.jpg
           #url: https://www.rfbr.ru
 
         - name: "Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles"
           description: Russian Foundation for Basic Research, № 12-03-31172, 2016-2018
           status: finished
           gradient: from-blue-400 to-indigo-600
-          logo: /logos/rfbr-logo.jpg
+        logo:
+          image: /logos/rfbr-logo.jpg
           #url: https://www.rfbr.ru
-    design:
-      layout: cards
-      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
-      spacing:
-        padding: ["5rem", 0, "5rem", 0]
+      design:
+        layout: cards
+        show_logo: true        
+        css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+        spacing:
+          padding: ["5rem", 0, "5rem", 0]
     
   - block: team-showcase
     id: team
