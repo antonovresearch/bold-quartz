@@ -251,6 +251,23 @@ sections:
       # Choose a layout view
       view: card
       columns: 1
+    
+  - block: research-areas
+    id: teaching
+    content:
+      title: Teaching Activities
+      subtitle: Courses offered by our lab
+      items:
+        - name: "Organic chemistry: Seminar to the Lab Course" 
+          description: Bachelor, Regensburg University, since 2025
+          status: active
+          icon: hero/book-open
+          gradient: from-yellow-400 to-yellow-600
+      design:
+      layout: cards
+      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
 
   - block: logos
     content:
