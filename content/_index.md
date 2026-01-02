@@ -16,7 +16,7 @@ sections:
         Physical Organometallic Chemistry
       html: |
         We are a research group focused on the investigation of the role of non-covalent interactions in the structural features, synthetic methodology and reactivity of main group organometallics.<br><br>
-        As of now we are a subgroup of the group of <a href="https://www-oc.chemie.uni-regensburg.de/gschwind/" target="_blank">Prof. Ruth Gschwind</a> at the University of Regensburg.
+        As of now we are a subgroup of the group of Prof. Ruth Gschwind at the University of Regensburg.
       primary_action:
         text: Join Our Team
         url: '#team'
