@@ -148,7 +148,7 @@ sections:
       items:
         - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
           description: Russian Science Foundation, № 21-73-10040, 2021-2023
-          icon: hero/currency-dollar
+          icon: hero/rsf-logo.png
           status: active
           gradient: from-blue-400 to-indigo-600
           #cta:
