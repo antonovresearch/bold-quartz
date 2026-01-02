@@ -15,7 +15,8 @@ sections:
       title: |
         Physical Organometallic Chemistry
       text: |
-        We are a  research group focused on the investigation of the role of non-colavent interactions in the structural features, synthetic metodology and reactivity of main group organometallics 
+        We are a research group focused on the investigation of the role of non-colavent interactions in the structural features, synthetic metodology and reactivity of main group organometallics.  
+        As of now we are a subgroup of the group of [Prof. Ruth Gschwind](https://www-oc.chemie.uni-regensburg.de/gschwind/) at the University of Regensburg.
       primary_action:
         text: Join Our Team
         url: '#team'
