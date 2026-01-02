@@ -138,6 +138,44 @@ sections:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
+  - block: research-areas
+    id: funding
+    content:
+      title: Research Funding
+      subtitle: Competitive funding supporting our research program
+      #text: Our work is supported by national and international funding agencies.
+      items:
+        - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
+          description: Russian Science Foundation, № 21-73-10040, 2021-2023
+          icon: hero/currency-dollar
+          status: active
+          gradient: from-blue-400 to-indigo-600
+          #cta:
+            #text: ERC Project Page
+            #url: https://erc.europa.eu
+
+        - name: Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles: experimental and theoretical challenge
+          description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021 
+          icon: hero/currency-dollar
+          status: finished
+          gradient: from-blue-400 to-indigo-600
+          #cta:
+            #text: ERC Project Page
+            #url: https://erc.europa.eu
+          
+        - name: Superbasic non-nucleophilic polymeric materials based on proton sponges
+          description: Russian Science Foundation, № 18-73-00020, 2018-2020
+          icon: hero/currency-dollar
+          status: finished
+          gradient: from-blue-400 to-indigo-600
+          #cta:
+            #text: ERC Project Page
+            #url: https://erc.europa.eu
+    design:
+      layout: cards
+      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
     
   - block: team-showcase
     id: team
