@@ -9,28 +9,31 @@ main:
     weight: 10
   - name: Research
     url: '/#research-areas'
-    weight: 20
-  - #name: Facilities
-    #url: '/facilities'
-    #weight: 25
+    weight: 15
   - name: Team
     url: '/#team'
-    weight: 30
+    weight: 20
   - name: Publications
     url: '/#publications'
-    weight: 40
+    weight: 25
   - name: Funding
     url: '/#Funding'
-    weight: 45
+    weight: 30
   - name: News
     url: '/#news'
-    weight: 50
+    weight: 35
+  - name: Teaching
+    url: '/#teaching'
+    weight: 40
+  - name: Collaborations
+    url: '/#collaborations'
+    weight: 45   
   - name: Join Us
     url: '/opportunities'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '/#contact'
-    weight: 70
+    weight: 55
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
