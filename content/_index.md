@@ -251,7 +251,6 @@ sections:
       # Choose a layout view
       view: card
       columns: 1
-      css_class: "bg-gradient-to-b from-[#004000] to-[#005a00]"
     
   - block: research-areas
     id: teaching
@@ -266,7 +265,7 @@ sections:
           gradient: from-yellow-400 to-yellow-600
       design:
       layout: cards
-      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+      css_class: "bg-gradient-to-b from-[#004000] to-[#005a00]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
