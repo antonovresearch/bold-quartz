@@ -42,8 +42,8 @@ sections:
           intensity: "medium"
           colors:
             - "primary-500/30"
-            - "blue-600/20"
-            - "indigo-600/15"
+            - "[#001400]"
+            - "[#001b00]"
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
@@ -74,7 +74,7 @@ sections:
     design:
       layout: cards
       # Section background color (CSS class)
-      css_class: "bg-gradient-to-b from-[#001400] to-[#001b00]"
+      css_class: "bg-gradient-to-b from-[#001b00] to-[#002200]"
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 
@@ -137,7 +137,7 @@ sections:
         icon: hero/arrow-right
     design:
       layout: cards
-      css_class: "bg-gradient-to-b from-[#001b00] to-[#002200]"
+      css_class: "bg-gradient-to-b from-[#002200] to-[#002900]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
@@ -161,7 +161,7 @@ sections:
       view: card
       show_logo: true
       show_status: true
-      css_class: "bg-gradient-to-b from-[#002200] to-[#002900]"
+      css_class: "bg-gradient-to-b from-[#002900] to-[#003300]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
  
@@ -220,7 +220,7 @@ sections:
     design:
       layout: cards
       show_logo: true        
-      css_class: "bg-gradient-to-b from-[#002900] to-[#003300]"
+      css_class: "bg-gradient-to-b from-[#003300] to-[#004000]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
        
@@ -251,7 +251,7 @@ sections:
       # Choose a layout view
       view: card
       columns: 1
-      css_class: "bg-gradient-to-b from-[#002900] to-[#003300]"
+      css_class: "bg-gradient-to-b from-[#004000] to-[#005a00]"
     
   - block: research-areas
     id: teaching
@@ -290,7 +290,7 @@ sections:
     design:
       display_mode: grid
       show_pattern: false
-      css_class: "bg-gradient-to-b from-[#003300] to-[#004000]"
+      css_class: "bg-gradient-to-b from-[#005a00] to-[#005a00]"
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
