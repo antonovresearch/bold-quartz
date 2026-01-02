@@ -285,30 +285,17 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
-  - block: logos
+  - block: team-showcase
     id: collaborations
     content:
       title: Collaborators & Partners
-      subtitle: Leading the way together text: We work with top universities and research institutes to advance scientific discovery
-      logos:
-  
-        - name: Saint Petersburg University
-          image: partners/Tolstoy.jpg
-          url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
-          external: true
-          description: Prof. Peter Tolstoy
-
-        - name: Saint Petersburg University
-          image: partners/Tupikina.jpg
-          url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
-          external: true
-          description: Prof. Elena Tupikina
-      
-    design: display_mode: grid
-      logo_size: large
-      show_pattern: false
+      subtitle: International research partners
+      user_groups:
+        - Collaborators
+    design:
+      spacing:
+        padding: ["3rem", 0, "3rem", 0]
       css_class: "bg-gradient-to-b from-[#003400] to-[#004100]"
-        spacing: padding: ["3rem", 0, "3rem", 0]
 
   - block: contact-info
     id: contact
