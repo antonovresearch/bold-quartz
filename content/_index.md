@@ -327,7 +327,7 @@ sections:
           url: https://bsky.app/profile/alexanderantonov.bsky.social
         - icon: brands/orcid
           url: https://orcid.org/0000-0001-7047-789X
-        - icon: brands/research-gate
+        - icon: brands/researchgate-brands-solid-full.svg
           url: https://www.researchgate.net/profile/Alexander-Antonov-5
       prospective:
         title: Prospective Members
