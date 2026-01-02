@@ -285,29 +285,29 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
-  - block: logos
-    id: collaborations    
+  - block: research-areas
+    id: collaborations
     content:
-      title: Collaborators & Partners
-      subtitle: Leading the way together
-      text: We work with top universities, research institutes, and industry leaders to advance scientific discovery
-      logos:
-        - name: Saint Petersburg University
-          image: partners/Tolstoy.jpg
-          url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
-          external: true
-          description: Prof. Peter Tolstoy
-        - name: Saint Petersburg University
-          image: partners/Tupikina.jpg
-          url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
-          external: true
-          description: Prof. Elena Tupikina
-        
+      title: Collaborators
+      subtitle: International research partners
+      items:
+        - name: Prof. Peter Tolstoy
+          description: Saint Petersburg University
+          icon: partners/Tolstoy.jpg
+          gradient: from-[#003400] to-[#004100]
+          cta:
+            text: Group website
+            url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
+
+        - name: Prof. Elena Tupikina
+          description: Saint Petersburg University
+          icon: partners/Tupikina.jpg
+          gradient: from-[#003400] to-[#004100]
+          cta:
+            text: Group website
+            url: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
     design:
-      display_mode: grid
-      logo_size: medium
-      show_pattern: false
-      css_class: "bg-gradient-to-b from-[#003400] to-[#004100]"
+      layout: cards
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 
