@@ -69,7 +69,7 @@ sections:
         - statistic: "4"
           description: Active research projects
            #sub_metric: Across 3 major domains
-          icon: hero/beaker
+          icon: hero/academic-cap
     design:
       layout: cards
       # Section background color (CSS class)
@@ -117,7 +117,7 @@ sections:
             
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
-          icon: emoji/academic-cap
+          icon: hero/academic-cap
           gradient: from-blue-400 to-indigo-600
           topics:
             - Phosphine chalcogenides
