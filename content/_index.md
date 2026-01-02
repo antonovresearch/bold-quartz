@@ -78,6 +78,7 @@ sections:
         padding: ["3rem", 0, "3rem", 0]
 
   - block: research-areas
+    id: research-areas
     content:
       title: Research Focus Areas
       subtitle: Expanding the Frontiers of Organolithium Chemistry with Non-covalent Interactions
