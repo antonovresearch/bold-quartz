@@ -10,17 +10,17 @@ main:
   - name: Research
     url: '/#projects'
     weight: 20
-  - name: Facilities
-    url: '/facilities'
-    weight: 25
+  - #name: Facilities
+    #url: '/facilities'
+    #weight: 25
   - name: Team
     url: '/#team'
     weight: 30
   - name: Publications
     url: '/#publications'
     weight: 40
-  - name: Events
-    url: '/#events'
+  - name: Funding
+    url: '/#Funding'
     weight: 45
   - name: News
     url: '/#news'
