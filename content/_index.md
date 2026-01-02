@@ -167,14 +167,14 @@ sections:
         padding: ["3rem", 0, "3rem", 0]
 
   - block: collection
-  id: funding
-  content:
-    title: Research Funding
-    subtitle: Competitive funding supporting our research program
-    filters:
-      folders:
-        - funding   # This points to the folder with the Markdown files
-    count: 0       # Show all funding entries
+    id: funding
+    content:
+      title: Research Funding
+      subtitle: Competitive funding supporting our research program
+      filters:
+        folders:
+          - funding   # This points to the folder with the Markdown files
+      count: 0       # Show all funding entries
   design:
     view: card
     show_logo: true          # critical to show the images
