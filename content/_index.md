@@ -266,10 +266,10 @@ sections:
           icon: hero/book-open
           gradient: from-yellow-400 to-yellow-600
       design:
-      layout: cards
-      css_class: "bg-gradient-to-b from-[#002c00] to-[#003400]"
-      spacing:
-        padding: ["5rem", 0, "5rem", 0]
+        layout: cards
+        css_class: "bg-gradient-to-b from-[#002c00] to-[#003400]"
+        spacing:
+          padding: ["5rem", 0, "5rem", 0]
 
   - block: logos
     id: collaborations    
