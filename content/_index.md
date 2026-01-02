@@ -96,9 +96,9 @@ sections:
           #team_size: 12
           #publications: 45+
           #funding: $2.5M NSF/NIH
-          cta:
-            text: Explore Projects
-            url: /research/computational-biology
+          #cta:
+            #text: Explore Projects
+            #url: /research/computational-biology
             
         - name: Heterocyclic chemistry
           description: Non-covalent interactions in synthesis and functionalisation of heterocyclic compounds
@@ -112,9 +112,9 @@ sections:
           #team_size: 8
           #publications: 32+
           #funding: $1.8M NSF
-          cta:
-            text: View Research
-            url: /research/machine-learning
+          #cta:
+            #text: View Research
+            #url: /research/machine-learning
             
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
@@ -127,9 +127,9 @@ sections:
           #team_size: 6
           #publications: 28+
           #funding: $1.2M DOE
-          cta:
-            text: Learn More
-            url: /research/materials-science
+          #cta:
+            #text: Learn More
+            #url: /research/materials-science
       cta:
         text: Active Research Projects
         url: /#research
