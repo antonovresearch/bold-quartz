@@ -41,7 +41,7 @@ sections:
           animation: "pulse"
           intensity: "medium"
           colors:
-            - "primary-500/30"
+            - "[#000a00]"
             - "[#001400]"
             - "[#001b00]"
         
