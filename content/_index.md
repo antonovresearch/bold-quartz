@@ -189,7 +189,7 @@ sections:
       show_logo: true        
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
-       padding: ["5rem", 0, "5rem", 0]
+        padding: ["5rem", 0, "5rem", 0]
     
   - block: team-showcase
     id: team
