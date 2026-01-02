@@ -156,15 +156,12 @@ sections:
         url: /authors
         icon: user-group
     design:
-      show_role: true
-      show_organizations: false
-      show_interests: true
-      show_social: true
-      # Section background color
-      css_class: "bg-gray-50 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
+  view: card
+  show_logo: true
+  show_status: true
+  css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+  spacing:
+    padding: ["5rem", 0, "5rem", 0]
 
   - block: collection
     id: funding
@@ -176,7 +173,7 @@ sections:
           - funding   # This points to the folder with the Markdown files
       count: 0       # Show all funding entries
     design:
-    view: card
+      view: card
       show_logo: true          # critical to show the images
       show_status: true        # shows Active/Finished if set
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
