@@ -76,7 +76,7 @@ sections:
     design:
       layout: cards
       # Section background color (CSS class)
-      css_class: "bg-gradient-to-b from-[#001b00] to-[#002200]"
+      css_class: "bg-gradient-to-b from-[#001400] to-[#001900]"
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 
@@ -139,7 +139,7 @@ sections:
         icon: hero/arrow-right
     design:
       layout: cards
-      css_class: "bg-gradient-to-b from-[#002200] to-[#002900]"
+      css_class: "bg-gradient-to-b from-[#001900] to-[#001f00]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
@@ -163,7 +163,7 @@ sections:
       view: card
       show_logo: true
       show_status: true
-      css_class: "bg-gradient-to-b from-[#002900] to-[#003300]"
+      css_class: "bg-gradient-to-b from-[#001f00] to-[#002500]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
  
@@ -222,7 +222,7 @@ sections:
     design:
       layout: cards
       show_logo: true        
-      css_class: "bg-gradient-to-b from-[#003300] to-[#004000]"
+      css_class: "bg-gradient-to-b from-[#002500] to-[#002c00]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
        
@@ -267,7 +267,7 @@ sections:
           gradient: from-yellow-400 to-yellow-600
       design:
       layout: cards
-      css_class: "bg-gradient-to-b from-[#004000] to-[#005a00]"
+      css_class: "bg-gradient-to-b from-[#002c00] to-[#003400]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
@@ -292,7 +292,7 @@ sections:
     design:
       display_mode: grid
       show_pattern: false
-      css_class: "bg-gradient-to-b from-[#005a00] to-[#005a00]"
+      css_class: "bg-gradient-to-b from-[#003400] to-[#004100]"
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
@@ -333,7 +333,7 @@ sections:
       #map_url: https://maps.google.com/?q=University+of+Excellence
       show_form: false
     design:
-      css_class: "bg-gradient-to-b from-[#004000] to-[#005a00]"
+      css_class: "bg-gradient-to-b from-[#004100] to-[#005a00]"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
