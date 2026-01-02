@@ -41,9 +41,11 @@ sections:
           animation: "pulse"
           intensity: "medium"
           colors:
-            - "[#000a00]"
-            - "[#001400]"
-            - "[#001b00]"
+            - "[#125607]"
+            - "[#074300]"
+            - "[#0C2703]"
+            - "[#071402]"
+            - "[#090804]"
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
@@ -328,7 +330,7 @@ sections:
         button:
           text: View Open Positions
           url: /opportunities
-      map_url: https://maps.google.com/?q=University+of+Excellence
+      #map_url: https://maps.google.com/?q=University+of+Excellence
       show_form: false
     design:
       css_class: "bg-gradient-to-b from-[#004000] to-[#005a00]"
