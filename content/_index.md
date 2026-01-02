@@ -245,29 +245,6 @@ sections:
     design:
       view: citation
     
-- block: collection
-  id: funding
-    content:
-      title: Funding
-      subtitle: Join Us for Research Presentations & Seminars
-      text: Stay connected with our research community through talks, workshops, and collaborative events
-      filters:
-        folders:
-          - events
-        exclude_past: false  # Show both past and future events
-      count: 3
-      sort_by: Date
-      sort_ascending: false
-    design:
-      view: card
-      # columns: 3
-      show_date: true
-      show_read_time: false
-      show_read_more: true
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
-
   - block: collection
     id: news
     content:
