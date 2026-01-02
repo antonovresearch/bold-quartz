@@ -245,7 +245,7 @@ sections:
       view: citation
     
 - block: collection
-    id: funding
+  id: funding
     content:
       title: Funding
       subtitle: Join Us for Research Presentations & Seminars
