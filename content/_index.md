@@ -164,21 +164,21 @@ sections:
         padding: ["5rem", 0, "5rem", 0]
     
   - block: collection
-  id: funding
-  content:
-    title: Research Funding
-    subtitle: Competitive funding supporting our research program
-    filters:
-      folders:
-        - funding   # points to your content/funding folder
-    count: 0       # show all entries
-  design:
-    view: card
-    show_logo: true
-    show_status: true
-    css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
-    spacing:
-      padding: ["5rem", 0, "5rem", 0]
+    id: funding
+    content:
+      title: Research Funding
+      subtitle: Competitive funding supporting our research program
+      filters:
+        folders:
+          - funding   # points to your content/funding folder
+      count: 0       # show all entries
+    design:
+      view: card
+      show_logo: true
+      show_status: true
+      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
        
   - block: collection
     id: publications
