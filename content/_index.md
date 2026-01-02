@@ -148,7 +148,7 @@ sections:
       items:
         - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
           description: Russian Science Foundation, № 21-73-10040, 2021-2023
-          image: logos/rsf-logo.png
+          image: /logos/rsf-logo.png
           status: finished
           gradient: from-blue-400 to-indigo-600
           #cta:
@@ -157,7 +157,7 @@ sections:
 
         - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles: experimental and theoretical challenge"
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021 
-          image: logos/rfbr-logo.jpg
+          image: /logos/rfbr-logo.jpg
           status: finished
           gradient: from-blue-400 to-indigo-600
           #cta:
@@ -166,7 +166,7 @@ sections:
           
         - name: Superbasic non-nucleophilic polymeric materials based on proton sponges
           description: Russian Science Foundation, № 18-73-00020, 2018-2020
-          image: logos/rsf-logo.png
+          image: /logos/rsf-logo.png
           status: finished
           gradient: from-blue-400 to-indigo-600
           #cta:
@@ -175,7 +175,7 @@ sections:
     
         - name: Organometallic derivatives of 1,8-bis(dimethylamino)naphthalene
           description: Russian Foundation for Basic Research, № 16-33-60030, 2016-2018
-          image: logos/rfbr-logo.jpg
+          image: /logos/rfbr-logo.jpg
           status: finished
           gradient: from-blue-400 to-indigo-600
           #cta:
@@ -184,7 +184,7 @@ sections:
     
         - name: "Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles"
           description: Russian Foundation for Basic Research, № 12-03-31172, 2016-2018
-          image: logos/rfbr-logo.jpg
+          image: /logos/rfbr-logo.jpg
           status: finished
           gradient: from-blue-400 to-indigo-600
           #cta:
