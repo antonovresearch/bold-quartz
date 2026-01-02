@@ -309,7 +309,7 @@ sections:
       show_pattern: false
       css_class: "bg-gradient-to-b from-[#003400] to-[#004100]"
       spacing:
-        padding: ["4rem", 0, "4rem", 0]
+        padding: ["3rem", 0, "3rem", 0]
 
   - block: contact-info
     id: contact
