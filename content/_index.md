@@ -139,6 +139,33 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
+  - block: team-showcase
+    id: team
+    content:
+      title: Meet Our Team
+      #subtitle: 'World-class researchers pushing the boundaries of science'
+      #text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
+      user_groups:
+        - Group Leader
+        - Postdoctoral Researchers and PhD Students
+        - Master and Bachelor Students
+      sort_by: 'Params.last_name'
+      sort_ascending: true
+      cta:
+        text: View All Team Members
+        url: /authors
+        icon: user-group
+    design:
+      show_role: true
+      show_organizations: false
+      show_interests: true
+      show_social: true
+      # Section background color
+      css_class: "bg-gray-50 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: ["3rem", 0, "3rem", 0]
+
   - block: research-areas
     id: funding
     content:
@@ -191,60 +218,6 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
-  - block: team-showcase
-    id: team
-    content:
-      title: Meet Our Team
-      #subtitle: 'World-class researchers pushing the boundaries of science'
-      #text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
-      user_groups:
-        - Group Leader
-        - Postdoctoral Researchers and PhD Students
-        - Master and Bachelor Students
-      sort_by: 'Params.last_name'
-      sort_ascending: true
-      cta:
-        text: View All Team Members
-        url: /authors
-        icon: user-group
-    design:
-      show_role: true
-      show_organizations: false
-      show_interests: true
-      show_social: true
-      # Section background color
-      css_class: "bg-gray-50 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
-
-  - block: collection
-    id: projects
-    content:
-      title: Active Research Projects
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - projects
-      count: 0  # Number of items to show (0 = all)
-      # Default filter UI (for future release)
-      #default_button_index: 0
-      # Filter toolbar (optional)
-      # Add or remove as many filters as you like
-    #   buttons:
-    #     - name: All
-    #       tag: '*'
-    #     - name: Machine Learning
-    #       tag: ML
-    #     - name: Biology
-    #       tag: Biology
-    #     - name: Materials
-    #       tag: Materials
-    design:
-      view: article-grid
-      columns: 2
-
   - block: collection
     id: publications
     content:
