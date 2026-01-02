@@ -74,7 +74,7 @@ sections:
     design:
       layout: cards
       # Section background color (CSS class)
-      css_class: css_class: "bg-gradient-to-b from-[#001400] to-[#001b00]"
+      css_class: "bg-gradient-to-b from-[#001400] to-[#001b00]"
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 
