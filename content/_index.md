@@ -156,30 +156,13 @@ sections:
         url: /authors
         icon: user-group
     design:
-  view: card
-  show_logo: true
-  show_status: true
-  css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
-  spacing:
-    padding: ["5rem", 0, "5rem", 0]
-
-  - block: collection
-    id: funding
-    content:
-      title: Research Funding
-      subtitle: Competitive funding supporting our research program
-      filters:
-        folders:
-          - funding   # This points to the folder with the Markdown files
-      count: 0       # Show all funding entries
-    design:
       view: card
-      show_logo: true          # critical to show the images
-      show_status: true        # shows Active/Finished if set
+      show_logo: true
+      show_status: true
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-    
+   
   - block: collection
     id: publications
     content:
