@@ -175,13 +175,13 @@ sections:
         folders:
           - funding   # This points to the folder with the Markdown files
       count: 0       # Show all funding entries
-  design:
+    design:
     view: card
-    show_logo: true          # critical to show the images
-    show_status: true        # shows Active/Finished if set
-    css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
-    spacing:
-      padding: ["5rem", 0, "5rem", 0]
+      show_logo: true          # critical to show the images
+      show_status: true        # shows Active/Finished if set
+      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
     
   - block: collection
     id: publications
