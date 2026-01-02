@@ -327,6 +327,8 @@ sections:
           url: https://bsky.app/profile/alexanderantonov.bsky.social
         - icon: brands/orcid
           url: https://orcid.org/0000-0001-7047-789X
+        - icon: brands/research-gate
+          url: https://www.researchgate.net/profile/Alexander-Antonov-5
       prospective:
         title: Prospective Members
         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
