@@ -182,7 +182,7 @@ sections:
             #text: ERC Project Page
             #url: https://erc.europa.eu
     
-        - name: “Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles”
+        - name: "Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles"
           description: Russian Foundation for Basic Research, № 12-03-31172, 2016-2018
           icon: logos/rfbr-logo.png
           status: finished
