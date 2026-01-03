@@ -296,7 +296,7 @@ sections:
         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
         button:
           text: View Open Positions
-          url: /opportunities
+           #url: /opportunities
       #map_url: https://maps.google.com/?q=University+of+Excellence
       show_form: false
     design:
