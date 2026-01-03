@@ -34,12 +34,13 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: ""
       background:
-        image:
-          filename: hero-bg.jpeg
-          size: cover
-          position: center
-          brightness: 0.35   # darkens image for text readability
-          parallax: true
+        #image:
+          #filename: hero-bg.jpeg
+          #size: cover
+          #position: center
+          #filters:
+        #     brightness: 0.6
+        #     contrast: 1.1
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
