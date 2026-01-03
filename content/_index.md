@@ -170,15 +170,20 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
-      text: ''
+      title: "Recent Publications"
       filters:
         folders:
           - publications
-        exclude_featured: false
-      count: 5
+      # don't need featured_only, we pick latest automatically
+      count: 3                 # number of items to display
+      sort_by: date            # sort by publication date
+      sort_ascending: false    # newest first
     design:
-      view: citation
+      view: article-grid
+      columns: 2
+      css_class: "bg-gray-50 dark:bg-gray-900"
+      spacing:
+        padding: ["4rem", 0, "4rem", 0]
     
   - block: hero
     content:
