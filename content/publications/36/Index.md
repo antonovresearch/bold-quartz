@@ -1,10 +1,11 @@
 ---
+#36
 title: "A data-driven and quantum chemistry-anchored framework for modeling and classifying carbon–lithium bonding in organolithium aggregates"
 authors:
-- V.V. Verkhov
-- S.A. Meshalkin
-- A.S. Antonov* 
-- E.Yu. Tupikina* 
+- V. V. Verkhov
+- S. A. Meshalkin
+- A. S. Antonov* 
+- E. Yu. Tupikina* 
 
 date: "2025-12-09T00:00:00Z"
 
@@ -39,5 +40,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
