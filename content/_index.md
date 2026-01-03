@@ -182,7 +182,7 @@ sections:
       view: article-grid
       columns: 2
       spacing:
-        padding: ["5rem", 0, "0.5rem", 0]
+        padding: ["5rem", 0, 0, 0]
         
   - block: hero
     content:
@@ -193,7 +193,7 @@ sections:
     design:
       css_class: "bg-transparent text-center"
       spacing:
-        padding: ["0.5 rem", 0, "1rem", 0]
+        padding: [0, 0, "1rem", 0]
         
   - block: research-areas
     id: funding
