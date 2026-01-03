@@ -107,6 +107,7 @@ sections:
         padding: ["5rem", 0, "5rem", 0]
     
   - block: "team-showcase"
+    id: team
     content:
       title: "Meet Our Team"
       subtitle: "World-class researchers pushing the boundaries of science"
