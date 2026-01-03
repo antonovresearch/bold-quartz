@@ -170,7 +170,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Our Publications
+      title: Recent Publications
       text: ''
       filters:
         folders:
@@ -178,10 +178,10 @@ sections:
         exclude_featured: false
       count: 5
 
-      cta:
+      primary_action:
         text: See all publications
-        url: /publications/
-        icon: hero/arrow-right
+        url: 'publications'
+        icon: hero/academic-cap
 
     design:
       view: citation
