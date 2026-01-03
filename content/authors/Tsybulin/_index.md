@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Semyon V. Tsybulin
+title: Dr. Semyon Tsybulin
 
 # Role/position/tagline
 role: Postdoctoral Researcher
