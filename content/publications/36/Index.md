@@ -2,7 +2,7 @@
 #36
 title: "A data-driven and quantum chemistry-anchored framework for modeling and classifying carbon–lithium bonding in organolithium aggregates"
 authors:
-- V. V. Verkhov
+- V. A. Verkhov
 - S. A. Meshalkin
 - A. S. Antonov* 
 - E. Yu. Tupikina* 
