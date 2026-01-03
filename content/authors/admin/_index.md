@@ -18,15 +18,16 @@ education:
     - course: PhD in Organic Chemistry
       institution: Southern Federal University
       year: 2015
-    - course: MS in Cemistry
+    - course: MS in Chemistry
       institution: Southern Federal University
       year: 2011
     - course: BS in Chemistry
       institution: Southern Federal University
       year: 2009
-
-
+---
 
 ## Join Our Team
 
-We are always looking for passionate researchers to join our lab. If you're interested in working at the forefront of computational biology and machine learning, please [contact us](/contact) with your CV and research interests.
+We are always looking for passionate researchers to join our lab.  
+If you're interested in working at the forefront of **organometallic chemistry**, please  
+[contact us](/contact) with your CV and research interests.
