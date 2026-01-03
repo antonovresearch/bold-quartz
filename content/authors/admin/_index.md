@@ -42,7 +42,7 @@ social:
 
 # User groups
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 ## Join Our Team
 
