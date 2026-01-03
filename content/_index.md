@@ -155,10 +155,10 @@ sections:
         - Master and Bachelor Students
       sort_by: 'Params.last_name'
       sort_ascending: true
-      cta:
-        text: View All Team Members
-        url: /authors
-        icon: user-group
+      #cta:
+        #text: View All Team Members
+        #url: /authors
+        #icon: user-group
     design:
       view: card
       show_logo: true
@@ -179,17 +179,15 @@ sections:
     design:
       view: citation
 
-  - block: cta-card
+  - block: hero
     content:
-      title: ''
-      text: ''
-      button:
+      title: " "
+      primary_action:
         text: See all publications
         url: /publications
         icon: hero/document
     design:
-      card:
-        css_class: 'bg-green-700 text-white'
+      css_class: "bg-gray-50 text-center"
         
   - block: research-areas
     id: funding
