@@ -86,48 +86,16 @@ sections:
           description: Steric effects in synthesis, structure and reactivity of organolithium compounds
           icon: hero/academic-cap
           gradient: from-green-400 to-emerald-600
-          topics:
-            - Directed lithiation
-            - Halogen-lithium exchange
-            - Aggregation and reactivity
-            - Dispercion interactions
-          #team_size: 12
-          #publications: 45+
-          #funding: $2.5M NSF/NIH
-          #cta:
-            #text: Explore Projects
-            #url: /research/computational-biology
             
         - name: Heterocyclic chemistry
           description: Non-covalent interactions in synthesis and functionalisation of heterocyclic compounds
           icon: hero/academic-cap
           gradient: from-purple-400 to-pink-600
-          topics:
-            - Pyrroles 
-            - Pyridines
-            - Pyrimidines
-            - Isoxazoles
-          #team_size: 8
-          #publications: 32+
-          #funding: $1.8M NSF
-          #cta:
-            #text: View Research
-            #url: /research/machine-learning
-            
+
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
           icon: hero/academic-cap
           gradient: from-blue-400 to-indigo-600
-          topics:
-            - Phosphine chalcogenides
-            - Arsine chalcogenides
-            - Organoboranes
-          #team_size: 6
-          #publications: 28+
-          #funding: $1.2M DOE
-          #cta:
-            #text: Learn More
-            #url: /research/materials-science
       #cta:
         #text: Active Research Projects
         #url: /#research
@@ -196,28 +164,28 @@ sections:
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021
           status: finished
           gradient: from-blue-400 to-indigo-600
-          icon: hero/currency-dollar
+          icon: custom/rfbr
 
 
         - name: Superbasic non-nucleophilic polymeric materials based on proton sponges
           description: Russian Science Foundation, № 18-73-00020, 2018-2020
           status: finished
           gradient: from-blue-400 to-indigo-600
-          icon: custom/ruble
+          icon: custom/rsf
 
 
         - name: Organometallic derivatives of 1,8-bis(dimethylamino)naphthalene
           description: Russian Foundation for Basic Research, № 16-33-60030, 2016-2018
           status: finished
           gradient: from-blue-400 to-indigo-600
-          icon: hero/currency-dollar
+          icon: custom/rfbr
 
 
         - name: "Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles"
           description: Russian Foundation for Basic Research, № 12-03-31172, 2016-2018
           status: finished
           gradient: from-blue-400 to-indigo-600
-          icon: hero/currency-dollar
+          icon: custom/rfbr
 
     design:
       layout: cards
