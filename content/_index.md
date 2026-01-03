@@ -190,7 +190,7 @@ sections:
           description: Russian Science Foundation, № 21-73-10040, 2021-2023
           status: finished
           gradient: from-blue-400 to-indigo-600
-          icon: hero/currency-dollar
+          icon: custom/rsf
 
         - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles"
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021
