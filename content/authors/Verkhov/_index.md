@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Valeriii A. Verkhov
+title:  Valerii A. Verkhov
 
 # Role/position/tagline
 role: PhD Student
