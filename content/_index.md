@@ -17,19 +17,19 @@ sections:
       text: |
         We are a research group focused on the investigation of the role of non-covalent interactions in the structural features, synthetic methodology and reactivity of main group organometallics.<br><br>
         As of now we are a subgroup of the group of Prof. Ruth Gschwind at the University of Regensburg.
-      primary_action:
-        text: Join Our Team
-        url: '#team'
-        icon: hero/user-group
+      # primary_action:
+        # text: Join Our Team
+        # url: '#team'
+        # icon: hero/user-group
       secondary_action:
         text: View Publications
         url: '#publications'
         icon: hero/academic-cap
-      announcement:
-        text: "We are hiring PhD students!"
-        link:
-          text: "Apply now"
-          url: "/opportunities"
+      # announcement:
+        # text: "We are hiring PhD students!"
+        # link:
+          # text: "Apply now"
+          # url: "/opportunities"
     design:
       # For full-screen, add `min-h-screen` below
       css_class: ""
@@ -177,13 +177,19 @@ sections:
           - publications
         exclude_featured: false
       count: 5
-      cta:
+    design:
+      view: citation
+    
+  - block: hero
+    content:
+      primary_action:
         text: "See All Publications"
         url: /publications
         icon: hero/document
     design:
-      view: citation
-
+      css_class: "bg-transparent text-center"
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
         
   - block: research-areas
     id: funding
