@@ -34,16 +34,12 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: ""
       background:
-        # Option A: Modern gradient mesh (recommended for 2025/2026)
-        gradient_mesh:
-          enable: true
-          style: "waves"
-          animation: "pulse"
-          intensity: "medium"
-          colors:
-            - "[#20511B]"
-            - "[#A1D367]"
-
+        image:
+          filename: hero-bg.jpg
+          size: cover
+          position: center
+          brightness: 0.35   # darkens image for text readability
+          parallax: true
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
@@ -180,18 +176,8 @@ sections:
       view: article-grid
       columns: 2
       spacing:
-        padding: ["5rem", 0, 0, 0]
+        padding: ["5rem", 0, "5rem", 0]
         
-  - block: hero
-    content:
-      primary_action:
-        text: "See All Publications"
-        url: /publications
-        icon: hero/document
-    design:
-      css_class: "bg-transparent text-center"
-      spacing:
-        padding: [0, 0, "1rem", 0]
         
   - block: research-areas
     id: funding
