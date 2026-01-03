@@ -307,10 +307,10 @@ sections:
   - block: cta-card
     content:
       title: Join Our Research Team
-      text: We are always looking for talented and motivated researchers to join our lab. We have openings for PhD students, postdoctoral researchers, and research scientists.
+      text: We are always looking for talented and motivated researchers to join our lab.
       button:
         text: View Open Positions
-        url: /opportunities
+         #url: /opportunities
     design:
       card:
         # Card background color (CSS class)
