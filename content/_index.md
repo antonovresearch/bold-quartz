@@ -203,7 +203,7 @@ sections:
           description: Russian Science Foundation, № 18-73-00020, 2018-2020
           status: finished
           gradient: from-blue-400 to-indigo-600
-          icon: hero/currency-dollar
+          icon: custom/ruble
 
 
         - name: Organometallic derivatives of 1,8-bis(dimethylamino)naphthalene
