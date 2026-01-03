@@ -177,31 +177,13 @@ sections:
           - publications
         exclude_featured: false
       count: 5
+      cta:
+        text: "See All Publications"
+        url: /publications
+        icon: hero/document
     design:
       view: citation
 
-  - block: hero
-    content:
-      title: "See All Publications"
-      text: "Explore our complete list of research publications."
-      primary_action:
-        text: "View Publications"
-        url: /publications
-        icon: hero/document
-    design:
-      css_class: "bg-gray-50 text-center"
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
-
-  - block: hero
-    content:
-      title: " "
-      primary_action:
-        text: See all publications
-        url: /publications
-        icon: hero/document
-    design:
-      css_class: "bg-gray-50 text-center"
         
   - block: research-areas
     id: funding
