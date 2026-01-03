@@ -121,7 +121,7 @@ sections:
       sort_ascending: true
     design:
       show_role: true
-      show_organizations: false
+      show_organizations: true
       show_interests: true
       show_social: true
       css_class: "bg-gray-50 dark:bg-gray-900"
