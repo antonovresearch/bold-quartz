@@ -112,10 +112,11 @@ sections:
       title: Meet Our Team
       #subtitle: 'World-class researchers pushing the boundaries of science'
       #text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
-      user_groups:
-        - Group Leader
-        - Postdoctoral Researchers and PhD Students
-        - Master and Bachelor Students
+        user_groups:
+          - Group Leader
+          - Postdoctoral Researchers
+          - PhD Students
+          - Undergraduate Students
       sort_by: 'Params.last_name'
       sort_ascending: true
       #cta:
