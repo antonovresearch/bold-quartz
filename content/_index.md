@@ -176,7 +176,13 @@ sections:
         folders:
           - publications
         exclude_featured: false
-      count: 0
+      count: 5
+
+      cta:
+        text: See all publications
+        url: /publications/
+        icon: hero/arrow-right
+
     design:
       view: citation
         
