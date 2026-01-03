@@ -123,7 +123,6 @@ sections:
         #url: /authors
         #icon: user-group
     design:
-      view: card
       show_logo: true
       show_status: true
       css_class: "bg-gradient-to-b from-[#001f00] to-[#002500]"
