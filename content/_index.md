@@ -175,7 +175,7 @@ sections:
         folders:
           - publications
       # don't need featured_only, we pick latest automatically
-      count: 3                 # number of items to display
+      count: 4                 # number of items to display
       sort_by: date            # sort by publication date
       sort_ascending: false    # newest first
     design:
