@@ -119,6 +119,10 @@ sections:
         - "Undergraduate Students"
       sort_by: "Params.last_name"
       sort_ascending: true
+      cta:
+        text: "Alumni"
+        url: "/alumni"
+        icon: "user-group"
     design:
       show_role: true
       show_organizations: true
