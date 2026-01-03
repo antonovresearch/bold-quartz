@@ -190,7 +190,7 @@ sections:
     design:
       layout: cards
       show_logo: true        
-      css_class: "bg-gradient-to-b from-[#002500] to-[#002c00]"
+      css_class: "funding-icons-large"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
        
