@@ -259,26 +259,6 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
-  - block: "team-showcase"
-    content:
-      title: "Meet Our Team"
-      user_groups:
-        - "Principal Investigators"
-        - "Postdoctoral Researchers"
-        - "PhD Students"
-      sort_by: "Params.last_name"
-      sort_ascending: true
-      cta:
-        text: "View All Team Members"
-        url: "/authors"
-        icon: "user-group"
-    design:
-      show_role: true
-      show_organizations: false
-      show_interests: true
-      show_social: true
-      css_class: "bg-gray-50 dark:bg-gray-900"
-
   - block: contact-info
     id: contact
     content:
