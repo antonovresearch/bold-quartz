@@ -171,19 +171,25 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: ''
       filters:
         folders:
           - publications
         exclude_featured: false
       count: 5
-      primary_action:
-        text: See all publications
-        url: 'publications'
-        icon: hero/hero/document
-
     design:
       view: citation
+
+  - block: cta-card
+    content:
+      title: ''
+      text: ''
+      button:
+        text: See all publications
+        url: /publications
+        icon: hero/document
+    design:
+      card:
+        css_class: 'bg-green-700 text-white'
         
   - block: research-areas
     id: funding
