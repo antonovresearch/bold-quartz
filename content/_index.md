@@ -181,9 +181,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-      css_class: "bg-gray-50 dark:bg-gray-900"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
     
   - block: hero
     content:
