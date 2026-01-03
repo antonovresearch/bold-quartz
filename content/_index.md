@@ -35,7 +35,7 @@ sections:
       css_class: ""
       background:
         image:
-          filename: hero-bg.jpg
+          filename: hero-bg.jpeg
           size: cover
           position: center
           brightness: 0.35   # darkens image for text readability
