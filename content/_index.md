@@ -189,11 +189,7 @@ sections:
         - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
           description: Russian Science Foundation, № 21-73-10040, 2021-2023
           status: finished
-          background:
-            image:
-              filename: hero-bg.jpeg
-              size: cover
-              position: center
+          gradient: from-blue-400 to-indigo-600
           icon: custom/rsf
 
         - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles"
