@@ -256,17 +256,25 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
-  - block: team-showcase
-    id: collaborations
+  - block: "team-showcase"
     content:
-      title: Collaborators & Partners
-      subtitle: International research partners
+      title: "Meet Our Team"
       user_groups:
-        - Collaborators
+        - "Principal Investigators"
+        - "Postdoctoral Researchers"
+        - "PhD Students"
+      sort_by: "Params.last_name"
+      sort_ascending: true
+      cta:
+        text: "View All Team Members"
+        url: "/authors"
+        icon: "user-group"
     design:
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
-      css_class: "bg-gradient-to-b from-[#003400] to-[#004100]"
+      show_role: true
+      show_organizations: false
+      show_interests: true
+      show_social: true
+      css_class: "bg-gray-50 dark:bg-gray-900"
 
   - block: contact-info
     id: contact
