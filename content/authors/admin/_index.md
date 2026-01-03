@@ -44,8 +44,3 @@ social:
 user_groups:
   - Principal Investigator
 ---
-## Join Our Team
-
-We are always looking for passionate researchers to join our lab.  
-If you're interested in working at the forefront of **organometallic chemistry**, please  
-[contact us](/contact) with your CV and research interests.
