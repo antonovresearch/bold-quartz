@@ -24,8 +24,11 @@ education:
     - course: BS in Chemistry
       institution: Southern Federal University
       year: 2009
----
 
+# User groups
+user_groups:
+  - Principal Investigators
+---
 ## Join Our Team
 
 We are always looking for passionate researchers to join our lab.  
