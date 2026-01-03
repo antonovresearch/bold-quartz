@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Maxim L. Kruglov
+title:  Maxim Kruglov
 
 # Role/position/tagline
 role: Bachelor student
