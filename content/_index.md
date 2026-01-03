@@ -177,11 +177,10 @@ sections:
           - publications
         exclude_featured: false
       count: 5
-
       primary_action:
         text: See all publications
         url: 'publications'
-        icon: hero/academic-cap
+        icon: hero/hero/document
 
     design:
       view: citation
