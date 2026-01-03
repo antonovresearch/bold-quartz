@@ -41,11 +41,9 @@ sections:
           animation: "pulse"
           intensity: "medium"
           colors:
-            - "[#125607]"
-            - "[#074300]"
-            - "[#0C2703]"
-            - "[#071402]"
-            - "[#090804]"
+            - "[#20511B]"
+            - "[#A1D367]"
+
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
