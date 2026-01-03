@@ -133,10 +133,10 @@ sections:
           #cta:
             #text: Learn More
             #url: /research/materials-science
-      cta:
-        text: Active Research Projects
-        url: /#research
-        icon: hero/arrow-right
+      #cta:
+        #text: Active Research Projects
+        #url: /#research
+        #icon: hero/arrow-right
     design:
       layout: cards
       css_class: "bg-gradient-to-b from-[#001900] to-[#001f00]"
